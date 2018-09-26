@@ -1,2 +1,1 @@
-# git-thp-j1
-jour1
+Ceci est mon tout premier repo GitHub, waow !
